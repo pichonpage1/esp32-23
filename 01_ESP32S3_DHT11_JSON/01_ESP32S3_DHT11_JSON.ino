@@ -16,8 +16,8 @@
 
 #define DHTPIN 2          // Pin del sensor DHT11
 #define DHTTYPE DHT11     // Tipo de sensor DHT11
-#define WIFI_SSID "SETUP-8397"      // Nombre de la red WiFi
-#define WIFI_PASSWORD "earth5004direct"  // Contraseña de la red WiFi
+#define WIFI_SSID "infinitum666"      // Nombre de la red WiFi
+#define WIFI_PASSWORD "eldiabloandasuelto"  // Contraseña de la red WiFi
 
 DHT dht(DHTPIN, DHTTYPE);
 WiFiClient wifiClient;
